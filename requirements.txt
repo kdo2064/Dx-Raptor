@@ -1,0 +1,7 @@
+flask
+pywebview 
+illusioncolor 
+requests  
+datetime 
+asyncio 
+aiohttp
