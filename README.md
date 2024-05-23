@@ -27,6 +27,7 @@ Welcome to **Dx-Raptor**, a powerful Denial of Service (DOS) tool developed by *
    ```
 2. **Setup Dx-Raptor**
     ```bash
+    If Python version 3.12 or higher is not installed, then run this setup.bat.
     Step 1) Select the setup.bat
     Step 2) Click Right button of your mouse
     Step 3) Click On Run as administrator..
@@ -44,14 +45,13 @@ Welcome to **Dx-Raptor**, a powerful Denial of Service (DOS) tool developed by *
 ## Usage
 
 1. **Launch the Tool**: run `python Dx-Raptor.exe`.
-2. **Enter the Product Key**: If you have not registered, you will be prompted to enter your product key. If you do not have a product key, you can contact [Bhram An Illusion](https://t.me/bhram_an_illusion1) to purchase one.
-3. **Configure the Attack**:
+2. **Configure the Attack**:
     - **Target URL**: Enter the URL of the target server.
     - **Threads**: Enter the threads value.
     - **Time Out**: Enter the Time Out value.
-4. **Start the Attack**: Click the "Attack" button on the GUI.
-5. **Monitor Progress**: Use the real-time statistics panel to observe the status and effectiveness of your attack.
-6. **Stop the Attack**: Close the terminal to stop the program or attack.
+3. **Start the Attack**: Click the "Attack" button on the GUI.
+4. **Monitor Progress**: Use the real-time statistics panel to observe the status and effectiveness of your attack.
+5. **Stop the Attack**: Close the terminal to stop the program or attack.
 
 ## Important Notes
 
