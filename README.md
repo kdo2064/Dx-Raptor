@@ -10,6 +10,7 @@ Welcome to **Dx-Raptor**, a powerful Denial of Service (DOS) tool developed by *
 - **Real-Time Statistics**: Monitor the status and effectiveness of your attack in real-time.
 
 <img src='https://i.giphy.com/11lxCeKo6cHkJy.webp' align='right' width='200rem'>
+
 ## Installation
 
 ### Prerequisites
