@@ -1,6 +1,6 @@
 # Dx-Raptor: The Powerful DOS Tool
 
-Welcome to **Dx-Raptor**, a powerful Denial of Service (DOS) tool developed by **Team Illusion**. This tool is designed to execute high-efficiency HTTP-based DOS attacks, equipped with a user-friendly graphical user interface (GUI). Dx-Raptor V1.0 brings you the capabilities to stress-test web servers with ease and precision.
+Welcome to **Dx-Raptor**, a powerful Denial of Service (DOS) tool developed by **Team Illusion**. This tool is designed to execute high-efficiency HTTP-based DOS attacks, equipped with a user-friendly graphical user interface (GUI). Dx-Raptor V1.1 brings you the capabilities to stress-test web servers with ease and precision.
 
 ## Features
 
