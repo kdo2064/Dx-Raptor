@@ -1,1 +1,1 @@
-Welcome to Dx-Raptor, a powerful Denial of Service (DOS) tool developed by Team Illusion. This tool is designed to execute high-efficiency HTTP-based DOS attacks, equipped with a user-friendly graphical user interface (GUI).
+Msg from Developer : Kindly clone the tool and rerun the executable if the background of the Dx-Raptop appears white, as there might be an error in the code.
