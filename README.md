@@ -8,9 +8,10 @@ Welcome to **Dx-Raptor**, a powerful Denial of Service (DOS) tool developed by *
 - **Multiple HTTP Methods**: Supports various HTTP methods to simulate different attack vectors.
 - **High-Efficiency Attacks**: Optimized for maximum impact on target servers.
 - **Real-Time Statistics**: Monitor the status and effectiveness of your attack in real-time.
-- 
-## Installation
+
 <img src='https://i.giphy.com/11lxCeKo6cHkJy.webp' align='right' width='200rem'>
+## Installation
+
 ### Prerequisites
 
 - **Operating System**: Windows
